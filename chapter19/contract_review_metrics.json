@@ -1,0 +1,15 @@
+[
+  {
+    "timestamp": "2025-11-28T16:07:43.613456",
+    "task_id": "contract_2023_001",
+    "contract_length_chars": 298,
+    "processing_time_seconds": 28.19966197013855,
+    "overall_risk_score": 8.5,
+    "critical_clauses_count": 3,
+    "compliance_issues_count": 4,
+    "evaluation_score": 7.5,
+    "risk_identification_score": 8,
+    "missed_risks_count": 3,
+    "false_positives_count": 2
+  }
+]

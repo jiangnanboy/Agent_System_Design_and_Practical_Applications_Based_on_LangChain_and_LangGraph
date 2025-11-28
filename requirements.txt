@@ -10,3 +10,7 @@ langgraph-checkpoint          2.1.2
 langgraph-prebuilt            1.0.4
 langgraph-sdk                 0.2.9
 langsmith                     0.4.37
+fastmcp                       2.2.3
+pdfplumber                    0.11.6
+fastapi                       0.115.12
+python3.11

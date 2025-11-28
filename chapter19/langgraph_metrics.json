@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-11-28T16:43:49.908741",
+    "task_id": "contract_langgraph_001",
+    "final_decision": "",
+    "retry_count": 2,
+    "processing_time_seconds": 22.970112085342407,
+    "final_evaluation_score": 5
+  }
+]
