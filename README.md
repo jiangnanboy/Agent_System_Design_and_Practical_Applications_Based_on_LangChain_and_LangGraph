@@ -17,6 +17,7 @@
 - **规模梯度进阶**：从单一场景小案例到企业级复杂系统，逐步提升技术难度与工程复杂度，适配不同层级开发者需求。
 
 ## 项目内容
+### 第一部分：理论与案例分析——基础篇
 
 * [第一章：智能体实战之提示词链：分而治之的智能处理范式](chapter1/第1章.md)
 
@@ -94,9 +95,41 @@
 
     —— 智能合同审核
 
-第二十章：
+* [第二十章：智能体实战之优先级排序：智能决策的核心机制](chapter20/第20章.md)
 
-第二十一章：
+    —— 智能邮件处理系统
+
+* [第二十一章：智能体实战之探索与发现：主动认知拓展的新范式](chapter21/第21章.md)
+
+    —— 智能网络安全漏洞分析系统
+
+### 第二部分：项目实战——中级篇
+
+* [第二十二章：食品配料营养安全分析工具](https://github.com/jiangnanboy/food_packaging_analysis)
+
+* [第二十三章：智能医疗诊断助手](https://github.com/jiangnanboy/medical-diagnosis-assistant)
+
+* [第二十四章：LLM 推理服务器基准测试工具](https://github.com/jiangnanboy/simple_llm_benchmarking)
+
+* [第二十五章：ChatExcel:智能表格数据分析的工具](https://github.com/jiangnanboy/ChatExcel)
+
+* [第二十六章：企业合同审核系统](https://github.com/jiangnanboy/contract_review)
+
+* [第二十七章：智能写作与文章总结](https://github.com/jiangnanboy/ai_writer_summary)
+
+* [第二十八章：中文知识图谱生成](https://github.com/jiangnanboy/llm-knowledge-graph)
+
+* [第二十九章：生成训练数据](https://github.com/jiangnanboy/llm_dataset_generation)
+
+* [第三十章：算术和推理](https://github.com/jiangnanboy/llm_agent_math)
+
+* [第三十一章：智能客服支持助手项目](https://github.com/jiangnanboy/customer_support_assistant)
+
+* [第三十二章：pdf多模态rag问答](https://github.com/jiangnanboy/pdf_multimodal_rag)
+
+* [第三十三章：提取卡证票据关键信息](https://github.com/jiangnanboy/Image_KIE_LLM)
+
+### 第三部分：项目实战——高级篇
 
 ## requirements
 requirements.txt
